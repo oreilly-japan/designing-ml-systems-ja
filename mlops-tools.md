@@ -86,7 +86,7 @@ H2Oは面白い[データベース風のopsベンチマーク](https://h2oai.git
 
 ただ私が個人的に興味があるユースケースを採り上げているだけです。あまり気にしないでください。
 
-* ニューラルレコメンドシステム/CTR: [DLRM](https://github.com/facebookresearch/dlrm)、[DeepCTR](https://github.com/shenweichen/DeepCTR), [tensorflow-DeepFM](https://github.com/ChenglongChen/tensorflow-DeepFM))、[Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
+* ニューラルレコメンドシステム/CTR: [DLRM](https://github.com/facebookresearch/dlrm)、[DeepCTR](https://github.com/shenweichen/DeepCTR), [tensorflow-DeepFM](https://github.com/ChenglongChen/tensorflow-DeepFM)、[Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
 * 対話型AI: [rasa](https://github.com/RasaHQ/rasa)、[NeMo](https://github.com/NVIDIA/NeMo)
 * 類似検索: [annoy](https://github.com/spotify/annoy), [Faiss](https://github.com/facebookresearch/faiss), [Milvus](https://github.com/milvus-io/milvus)
 * Deepfake: [faceswap](https://github.com/deepfakes/faceswap)、[deepface](https://github.com/serengil/deepface)
@@ -96,10 +96,10 @@ H2Oは面白い[データベース風のopsベンチマーク](https://h2oai.git
 
 ## 開発環境
 
-* CLIツール: [fzf](https://github.com/junegunn/fzf) (fuzzy search), [lipgloss](https://github.com/charmbracelet/lipgloss)
+* CLIツール: [fzf](https://github.com/junegunn/fzf) (fuzzy search)、[lipgloss](https://github.com/charmbracelet/lipgloss)
 * IDE: VSCodeを使いましょう（ノートブックもとても素晴らしいです）
 * 依存関係の管理: [Poetry](https://github.com/python-poetry/poetry)
-* 設定の管理: [Hydra](https://github.com/facebookresearch/hydra), [gin-config](https://github.com/google/gin-config)
+* 設定の管理: [Hydra](https://github.com/facebookresearch/hydra)、[gin-config](https://github.com/google/gin-config)
 * ドキュメンテーション: [docusaurus](https://github.com/facebook/docusaurus)
 * Kubernetesでのデバッグ: [k9s](https://github.com/derailed/k9s)
 * 仮想ホワイトボード: [excalidraw](https://github.com/excalidraw/excalidraw)
