@@ -70,7 +70,7 @@ Instacartは機械学習を使用して複数の買い物客にもっとも効�
 Spotifyは、主に3種類のレコメンド用モデルを使用してDiscover Weeklyを作成しています。
 
 * **協調フィルタリング**モデル... 元々はLast.fmが使用していたもので、あなたの行動や他の人々の行動を分析します。
-* **自然言語処理（NLP）**モデル... テキストを分析します。
+* **自然言語処理**モデル（NLP）... テキストを分析します。
 * **オーディオ**モデル... 生のオーディオトラックそのものを分析します。
 
 10. [Smart Compose: Using Neural Networks to Help Write Emails](https://ai.googleblog.com/2018/05/smart-compose-using-neural-networks-to.html) (Yonghui Wu, Google AI Blog 2018)
@@ -178,7 +178,7 @@ Spotifyは、主に3種類のレコメンド用モデルを使用してDiscover 
 
 * [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815) (Cathy O’Neil, Crown Books 2016)
 * [NIST Special Publication 1270](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf): 『Towards a Standard for Identifying and Managing Bias in Artificial Intelligence（人工知能におけるバイアスを識別・対処する標準を目指して）』
-* ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) [publications](https://facctconference.org/)
+* ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) [論文等](https://facctconference.org/)
 * [Trustworthy ML](https://www.trustworthyml.org/resources): 信頼性のある機械学習についてより詳しく学びたい研究者や実践者にお勧めする情報源と基礎研究のリスト
 * Sara Hookerの素晴らしいスライド [ML Beyond Accuracy: Fairness, Security, Governance](https://docs.google.com/presentation/d/1cshMKKSX24L0RL7LNzyOkZNQHD7N-Zyff8iffrLIVYM/edit?usp=sharing) (2022)
 * Timnit Gebru and Emily Dentonの説明責任・透明性・透明性・倫理に関する[チュートリアル](https://sites.google.com/view/fatecv-tutorial/schedule) (2020)
