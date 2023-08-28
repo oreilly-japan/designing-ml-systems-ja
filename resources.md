@@ -38,12 +38,16 @@
 
 Booking.comは2019年には既に150個もの機械学習モデルを実稼働させています。これらのモデルは、ユーザーの旅行の好みや同行者数などの広範な予測問題や、ユーザーに表示する背景画像やレビューの最適化問題に取り組むものです。[こちら](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)では、Adrian Colyerが得た6つの教訓について素晴らしいまとめが提供されています。
 
+```
 1. 機械学習モデルはビジネスに大きな価値を提供する
 2. モデルのパフォーマンスとビジネスのパフォーマンスは異なる
 3. 解決したい問題を明確にせよ
 4. 予測を提供するレイテンシーは重要である
 5. モデルの品質のフィードバックを迅速に得よ
 6. ランダム化比較試験（randomized controlled trials）を用いてモデルのビジネス上の影響をテストせよ
+```
+
+
 
 4. [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7) (Gabriel Aldamiz, HackerNoon, 2018)
 
