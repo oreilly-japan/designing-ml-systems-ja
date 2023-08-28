@@ -32,7 +32,7 @@
 
 2. [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f) (Chaitanya Ekanadham, Netflix Technology Blog, 2018)
 
-2018年時点でNetflixは全世界で1億1700万人以上のユーザーにストリーミングサービスを提供しており、その半数は米国外でのユーザーです。このブログ記事では、ネットワーク品質の予測、デバイスの異常の検出、予測をキャッシュするためのリソースの割り当てなど、直面する技術的な課題とその課題を克服する機械学習の活用方法について解説しています。
+2018年時点でNetflixは全世界で1億1700万人以上のユーザーにストリーミングサービスを提供していますが、その半数は米国外のユーザーです。このブログ記事では、ネットワーク品質の予測、デバイスの異常の検出、予測をキャッシュするためのリソースの割り当てなど、直面する技術的な課題とその課題を克服する機械学習の活用方法について解説しています。
 
 3. [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://blog.kevinhu.me/2021/04/25/25-Paper-Reading-Booking.com-Experiences/bernardi2019.pdf) (Bernardi et al., KDD, 2019)
 
