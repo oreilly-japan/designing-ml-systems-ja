@@ -36,7 +36,7 @@
 
 3. [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://blog.kevinhu.me/2021/04/25/25-Paper-Reading-Booking.com-Experiences/bernardi2019.pdf) (Bernardi et al., KDD, 2019)
 
-Booking.comは2019年には既に150個もの機械学習モデルを実稼働させています。これらのモデルは、ユーザーの旅行の好みや同行者数などの広範な予測問題や、ユーザーに表示する背景画像やレビューの最適化問題に取り組むものです。[こちら](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)では、Adrian Colyerが得た6つの教訓について素晴らしいまとめを提供しています。
+Booking.comは2019年には既に150個もの機械学習モデルを実稼働させています。これらのモデルは、ユーザーの旅行の好みや同行者数などの広範な予測問題や、ユーザーに表示する背景画像やレビューの最適化問題に取り組むものです。[こちら](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/)では、Adrian Colyerが得た6つの教訓について素晴らしいまとめが提供されています。
 
 1. 機械学習モデルはビジネスに大きな価値を提供する
 2. モデルのパフォーマンスとビジネスのパフォーマンスは異なる
