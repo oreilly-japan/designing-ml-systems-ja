@@ -10,6 +10,7 @@
 
 ## 構成
 
+- [各章のまとめ](summary.md)
 - [MLOps関連ツール](mlops-tools.md)
 - [その他の参考情報](resources.md)
 
